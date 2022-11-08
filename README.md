@@ -1,6 +1,13 @@
 # As part of my re-learning the basics of web development
 
-This time NFT landing page. CSS practice
+## This time NFT landing page. CSS & HTML practice
+### Essential CSS concepts 
+- Semantic HTML
+- Hover and active states
+- Specificity
+- Compound selectors (and when to avoid them)
+- Inline-block
+- Multiple class on one element
 
 ## About Scrimba
 
